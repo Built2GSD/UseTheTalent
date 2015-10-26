@@ -1,0 +1,2 @@
+From Mr. D: 
+Perhaps the best place to start is designing the database. From there the API, then implement it, then build out the front-end. We can do all that in any framework, and just decouple the api from the rendering. Or can start with a super flexible stack like MEAN, ROR, or the likes, and prototype the whole app with a flexible schema, then code it in C# once it feels complete. In other words, hack a fully functional prototype then implement it in C#. Lot's of options, no right way.

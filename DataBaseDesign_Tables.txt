@@ -1,0 +1,19 @@
+skillowner
+skillset
+job_industry
+talent_person
+expected_work
+
+A [skillowner] has a 1 to many relationship with [skillset], because a person has multiple skills. A [skillset] has a 1 to many relationship with [skillowner], because if you are looking for a skillset, more than on person may have it.
+
+A [skillset] has a 1 to many relationship with [job_industry], because a many might use a skillset. A [job_industry] has a 1 to many relationship with [skillset], since an industry will have many different types of skillsets.
+
+[skillset] has a 1 to many relationship with [talent_person] because 1 skillset might be shared by many people.
+
+The [expected_work] has a 1 to many relationship with [talent_person] because the expected work could be accomplished by different persons with the same skillset.
+
+
+
+
+
+

@@ -1,6 +1,7 @@
 <html>
-<h3>The current database table names are: TheTalentInfo, CurrentSkills, FutureSkills, TalentSeeker, ScheduledToDoList.
-  </h3>
+  <h3>Use The Talent</h3>
+<p>The current database table names are: TheTalentInfo, CurrentSkills, FutureSkills, TalentSeeker, ScheduledToDoList.
+  </p>
 <ul>
   <li>TheTalentInfo will be persons general information. </li>
   <li>CurrentSkill are holding available skillset.</li>
